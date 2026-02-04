@@ -1,10 +1,15 @@
 body{
     background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    height: 97vh;
 }
+
 
 main{
     padding: 5px;
     border: 1px solid blue;
     border-radius: 3px;
+    flex: 1;
 
 }
