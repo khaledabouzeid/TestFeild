@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+
+main{
+    padding: 5px;
+    border: 1px solid blue;
+    border-radius: 3px;
+
+}
