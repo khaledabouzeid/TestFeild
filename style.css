@@ -7,9 +7,23 @@ body{
 
 
 main{
-    padding: 5px;
     border: 1px solid blue;
     border-radius: 3px;
+    display: flex;
     flex: 1;
 
+}
+
+main p{
+
+}
+
+main aside{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
 }
